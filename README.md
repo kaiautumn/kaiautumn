@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Keep+going)
 
+![snake](https://github.com/kaiautumn/kaiautumn/blob/output/github-contribution-grid-snake.svg)
