@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kaiautumn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Keep+going)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Keep+going;I'm on my way)
 
 ![snake](https://github.com/kaiautumn/kaiautumn/blob/output/github-contribution-grid-snake.svg)
+
+===
+
+## Acknowledgments
+https://www.cnblogs.com/PeterJXL/p/18437094
