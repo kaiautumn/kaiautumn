@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 <!-- YEAR_PROGRESS_START -->
-⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 70.00 %
+⏳ Year progress { █████████████████████▁▁▁▁▁▁▁▁▁ } 70.05 %
 <!-- YEAR_PROGRESS_END -->
 
 ---
